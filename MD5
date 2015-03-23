@@ -1,0 +1,17 @@
+f9f8eb79acdcf6a058aa15d8834bb856 *DESCRIPTION
+ddb3d44750b83fbd8bcce77307483dbe *NAMESPACE
+855d9251705520ebd5c1cc4cbe1e6df3 *R/FlexPivot.R
+b793c77387f3c34d425d38e0fc5454cd *R/as.FlexTable.ftable.R
+8ff347a837a41eef760510a8e4f3160e *R/as.FlexTable.xtable.R
+a401e3cc6e973719b4b87d87b6512587 *R/freqtable.R
+7e8c8074f2a10a5a2058465c582660e4 *R/knit_print.FlexTable.R
+d2f20a400dc18118738de85b3badd757 *R/shiny.R
+7d663db63e62e08967787240a91fad01 *inst/examples/shinydemo/global.R
+aa8af9227e3628fe4fc2ba400970c1b0 *inst/examples/shinydemo/server.R
+cc3cd82887498d2537717bee883b14c2 *inst/examples/shinydemo/ui.R
+2233dedccba5156178a8e740a1a2b4b6 *man/FlexPivot.Rd
+d87fb54b5db38ae866301803f496f089 *man/as.FlexTable.ftable.Rd
+9e4b1b54698053a36fa0b2c32b81dfb4 *man/as.FlexTable.xtable.Rd
+79a260fa1c04c42920c0aa9dbd105e20 *man/freqtable.Rd
+64fc785f70b070f957ac2e12ea794309 *man/knit_print.FlexTable.Rd
+4e2ec92ad357ad1fc987c6b6d699f21c *man/renderFlexTable.Rd
