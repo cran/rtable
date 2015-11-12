@@ -178,7 +178,7 @@ freqtable_bivariate = function( c.table, percent_digits = 1,
 	dimnames( pcol.table ) = dm
 	dimnames( prow.table ) = dm
 	
-	levels = rep( dm[[1]], 4 )
+	levels = rep( dm[[1]], sum(c( T, percent, row_percent, col_percent )) )
 	levels = factor( x = levels, levels = dm[[1]] )
 	labs_stat = c( label_count, label_percent, label_percent_row, label_percent_col )[c( T, percent, row_percent, col_percent )]
 	stat.names = rep( labs_stat, each = dim( c.table )[1] )
